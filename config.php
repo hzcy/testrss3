@@ -5,8 +5,8 @@
 
 	define('DB_TYPE', 'pgsql');
 	define('DB_HOST', 'ec2-54-246-90-10.eu-west-1.compute.amazonaws.com');
-	define('DB_USER', ' qqzudcdkosqret');
-	define('DB_NAME', ' d43tlo1h4qjb5s');
+	define('DB_USER', 'qqzudcdkosqret');
+	define('DB_NAME', 'd43tlo1h4qjb5s');
 	define('DB_PASS', 'afbe495f92d62f08c58ad889080a2eb38335556d61a9e29514381e829b729d03');
 	define('DB_PORT', '5432');
 
